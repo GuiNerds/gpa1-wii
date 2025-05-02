@@ -40,7 +40,7 @@ Instructions
      ACTION1       A            Button 1
      ACTION2       Z            Button 2
      CONFIRM       Enter        Button 3
-     CANCEL        Space        Button 4
+     CANCEL        Space        Button 4         -
      PAN LEFT      J            Button 5
      PAN RIGHT     K            Button 6
      PAUSE         P            Button 9         +
