@@ -1,7 +1,7 @@
 #include <SDL/SDL.h>
 
 #include "keyboard.h"
-
+#include "wiiuse.h" 
 /* MODEL ->  We pretend we essentially have essentially 10 buttons */
 /* Right now this reflects the Gravis-Gamepad I have.  Eventually */
 /* I will add some sort of generic config utility for custom controls */
