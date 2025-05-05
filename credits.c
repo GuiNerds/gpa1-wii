@@ -12,6 +12,8 @@
 #include "gl_helper.h"
 #include "keyboard.h"
 
+#include "wiiuse.h" 
+
 #include "guinea_pig.h"
 #include "tfv.h"
 
